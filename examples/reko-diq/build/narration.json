@@ -1,0 +1,20 @@
+{
+  "voice": "af_heart",
+  "speed": 1.04,
+  "beats": [
+    {"id": "b01", "gap_after": 0.5, "text": "This is one of the emptiest places in Pakistan. No city. Barely a road."},
+    {"id": "b02", "gap_after": 1.2, "text": "And under it: thirteen million tonnes of copper, and nearly eighteen million ounces of gold. People have known it's here for decades. Not one tonne has ever been sold. Why?"},
+    {"id": "b03", "gap_after": 0.0, "text": "", "silent": 4.0},
+    {"id": "b04", "gap_after": 0.5, "text": "[Reko Diq](/ɹˈAkO dˈik/) means \"sandy peak\" in [Balochi](/bəlˈOʧi/). It sits in [Chagai](/ʧˈɑɡI/) district, in [Balochistan](/bəlˈOʧɪstˌɑn/), close to the borders with Iran and Afghanistan. It's part of a belt of copper and gold that runs from Europe, through Turkey and Iran, into Pakistan."},
+    {"id": "b05", "gap_after": 0.4, "text": "The story starts in 1993. [Balochistan](/bəlˈOʧɪstˌɑn/) signs an exploration deal with an Australian miner, B H P. The rights later pass to [Tethyan](/tˈɛθiən/) Copper, a venture of Chile's [Antofagasta](/ˌæntOfəɡˈæstə/) and Canada's Barrick."},
+    {"id": "b06", "gap_after": 0.4, "text": "They spend years, and more than two hundred million dollars, drilling. Then in 2011 they ask for the licence to actually mine. [Balochistan](/bəlˈOʧɪstˌɑn/) says no. Officials wanted the metal smelted and refined in Pakistan, not shipped out as raw concentrate."},
+    {"id": "b07", "gap_after": 0.4, "text": "In 2013, Pakistan's Supreme Court went further, and struck down the entire 1993 agreement."},
+    {"id": "b08", "gap_after": 1.4, "text": "So the company sued. In 2019, a World Bank arbitration tribunal ordered Pakistan to pay nearly six billion dollars. About two percent of its entire economy. For a mine that did not exist."},
+    {"id": "b09", "gap_after": 0.4, "text": "Pakistan couldn't pay. So in 2022, it made a deal instead. The penalty went away, and Barrick came back."},
+    {"id": "b10", "gap_after": 0.6, "text": "The new split: Barrick owns half. Pakistan's federal state companies own a quarter. [Balochistan](/bəlˈOʧɪstˌɑn/) owns a quarter, and pays nothing toward building it."},
+    {"id": "b11", "gap_after": 0.4, "text": "So why the rush now? Copper. Every electric car, and every power line needs it. The International Energy Agency warns the world could be thirty percent short by 2035."},
+    {"id": "b12", "gap_after": 0.6, "text": "That's why Washington pledged one point two five billion dollars, next to the World Bank's I F C and the Asian Development Bank. The plan: a mine that runs for at least thirty-seven years, with first production by the end of 2028."},
+    {"id": "b13", "gap_after": 0.8, "text": "But [Balochistan](/bəlˈOʧɪstˌɑn/) is also home to a long insurgency, and to people asking how much of this wealth will stay here. In 2026, as attacks grew and conflict hit neighbouring Iran, Barrick slowed the project. Its review runs to mid 2027. Reports now point to 2030."},
+    {"id": "b14", "gap_after": 2.5, "text": "The copper isn't going anywhere. The question is the same one it's been for thirty years. Can Pakistan finally get it out of the ground? And who will be richer, when it does?"}
+  ]
+}

@@ -1,0 +1,65 @@
+# Image and document credits (for the video description)
+
+- Barrick, Reko Diq Technical Report (31 Dec 2024): reserve statement (p.20) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): property location map (p.40) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): lease map (p.43) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): 15 porphyry bodies (p.57) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): holding structure (p.35) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): regional logistics / rail (p.249.png) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- Barrick, Reko Diq Technical Report (31 Dec 2024): risk table (p.29) — Barrick. Barrick, Reko Diq Technical Report (31 Dec 2024). https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/Barrick_RekoDiq_TechnicalReport_20241231.pdf
+- ESIA Appendix P, Mine Site Hydrogeological Assessment: Tanjeel groundwater pH (p.31) — ESIA Appendix P. ESIA Appendix P, Mine Site Hydrogeological Assessment. https://s25.q4cdn.com/322814910/files/doc_downloads/reko_diq/esia/Appendix-P-Mine-Site-Hydrogeological-Assessment.pdf
+- Reko Diq ESIA Executive Summary (DFC): rail route to Port Qasim (p.19) — Reko Diq ESIA Executive Summary (DFC). Reko Diq ESIA Executive Summary (DFC). https://www3.dfc.gov/environment/eia/rekodiq/Reko_Diq_ESIA_Executive_Summary.pdf
+- Reko Diq ESIA Executive Summary (DFC): cover (p.1) — Reko Diq ESIA Executive Summary (DFC). Reko Diq ESIA Executive Summary (DFC). https://www3.dfc.gov/environment/eia/rekodiq/Reko_Diq_ESIA_Executive_Summary.pdf
+- Barrick, 'Barrick Provides an Update on Reko Diq', 2 Apr 2026: page 1 (p.1) — Barrick. Barrick, 'Barrick Provides an Update on Reko Diq', 2 Apr 2026. https://s25.q4cdn.com/322814910/files/doc_news/2026/04/Barrick-Provides-an-Update-on-Reko-Diq.pdf
+- Civil society open letter on Reko Diq, Aug 2025: page 1 (p.1) — Civil society open letter on Reko Diq. Civil society open letter on Reko Diq, Aug 2025. https://re-course.org/wp-content/uploads/2025/08/Open-letter_-Balochistans-Reko-Diq-copper-mine-FINAL.pdf
+- UN Special Procedures communication to Barrick, Dec 2025: page 1 (p.1) — UN Special Procedures communication to Barrick. UN Special Procedures communication to Barrick, Dec 2025. https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30467
+- TCC open to negotiated settlement with Pakistan: chairman. Dawn. https://www.dawn.com/news/1494099
+- The Reko Diq saga. Dawn. https://dawn.com/news/780568/the-reko-diq-saga
+- Barrick Gold is coming back to Reko Diq. Profit by Pakistan Today. https://profit.pakistantoday.com.pk/2022/02/20/barrick-gold-is-coming-back-to-reko-diq
+- Magic mountains: The Reko Diq gold and copper mining project. Herald Magazine. https://herald.dawn.com/news/1153283
+- The Reko Diq matter. The News International. https://www.thenews.com.pk/print/507421-the-reko-diq-matter
+- Pakistan’s $500bn gold mine kept under wraps. The National. https://www.thenationalnews.com/business/pakistan-s-500bn-gold-mine-kept-under-wraps-1.606927
+- Province of Balochistan v Tethyan Copper Company Pty Limited. caselaw.nationalarchives.gov.uk. https://caselaw.nationalarchives.gov.uk/ewhc/comm/2021/1884
+- Assets unfrozen. Dawn. https://www.dawn.com/news/1625937/assets-unfrozen
+- British Virgin Islands court unfreezes PIA assets in Reko Diq award case. Dawn. https://www.dawn.com/news/1625648/british-virgin-islands-court-unfreezes-pia-assets-in-reko-diq-award-enforcement-case
+- Pakistan evades $11b Reko Diq penalty. The Express Tribune. https://tribune.com.pk/story/2348850/pakistan-evades-11b-reko-diq-penalty
+- $900m okayed for Chilean firm to exit Reko Diq. Dawn. https://www.dawn.com/news/1725908
+- Rift emerges in coalition over Reko Diq deal. The Express Tribune. https://tribune.com.pk/story/2391016/rift-emerges-in-coalition-over-reko-diq-deal
+- Executive summary. IEA. https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary
+- Reko Diq JV shareholders approve updated feasibility study, select Fluor as EPCM. Mining Weekly. https://www.miningweekly.com/article/reko-diq-jv-shareholders-approve-updated-feasibility-study-select-fluor-as-epcm-2025-04-08
+- Reko Diq secures over $5.5 billion in financing commitments from global financial institutions: report. Profit by Pakistan Today. https://profit.pakistantoday.com.pk/2025/09/17/reko-diq-secures-over-5-5-billion-in-financing-commitments-from-international-financial-institutions-report/
+- US Exim Bank okays $1.2bn for Reko Diq. Dawn. https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq
+- Manara to buy stake in Barrick’s Reko Diq project, reports FT. MINING.COM. https://www.mining.com/manara-minerals-to-buy-stake-in-barricks-reko-diq-gold-project-ft-reports/
+- $7.7bn package for Reko Diq approved. Dawn. https://www.dawn.com/news/1943039/77bn-package-for-reko-diq-approved
+- Response to Open Letter from Civil Society Organizations. www.barrick.com. https://www.barrick.com/English/operations/reko-diq/response-to-open-letter-from-civil-society-organizations/default.aspx
+- Barrick reviews Reko Diq project. Brecorder. https://www.brecorder.com/news/40405908/barrick-reviews-reko-diq-project-amid-security-concerns
+- News Details. www.barrick.com. https://www.barrick.com/English/news/news-details/2026/barrick-provides-an-update-on-reko-diq/default.aspx
+- Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar. Dawn. https://www.dawn.com/news/2044302/barrick-mining-expresses-interest-in-mineral-processing-industries-in-karachi-gwadar
+- Pakistan announces 13 mineral cooperation deals. The Express Tribune. https://tribune.com.pk/story/2640146/pakistan-announces-13-mineral-cooperation-deals
+- PM, CDF vow security, push foreign miners to process Pakistan’s mineral wealth at home. Pakistan Today. https://www.pakistantoday.com.pk/2026/11/14/pm-cdf-vow-security-push-foreign-miners-to-process-pakistans-mineral-wealth-at-home
+- $1 Billion Reko Diq ML-3 Railway Project Faces Delay Again. Bloom Pakistan. https://bloompakistan.com/pakistan-delays-reko-diq-railway-project/
+- Lead photo: TCC open to negotiated settlement with Pakistan: chairman — (see source caption). Dawn. https://www.dawn.com/news/1494099
+- Lead photo: Barrick Gold is coming back to Reko Diq - Profit by Pakistan Today — (see source caption). Profit by Pakistan Today. https://profit.pakistantoday.com.pk/2022/02/20/barrick-gold-is-coming-back-to-reko-diq
+- Lead photo: Magic mountains: The Reko Diq gold and copper mining project — (see source caption). Herald Magazine. https://herald.dawn.com/news/1153283
+- Lead photo: The Reko Diq matter — (see source caption). The News International. https://www.thenews.com.pk/print/507421-the-reko-diq-matter
+- Lead photo: Pakistan’s $500bn gold mine kept under wraps | The National — (see source caption). The National. https://www.thenationalnews.com/business/pakistan-s-500bn-gold-mine-kept-under-wraps-1.606927
+- Lead photo: British Virgin Islands court unfreezes PIA assets in Reko Diq award case — (see source caption). Dawn. https://www.dawn.com/news/1625648/british-virgin-islands-court-unfreezes-pia-assets-in-reko-diq-award-enforcement-case
+- Lead photo: Pakistan evades $11b Reko Diq penalty | The Express Tribune — (see source caption). The Express Tribune. https://tribune.com.pk/story/2348850/pakistan-evades-11b-reko-diq-penalty
+- Lead photo: $900m okayed for Chilean firm to exit Reko Diq — (see source caption). Dawn. https://www.dawn.com/news/1725908
+- Lead photo: Rift emerges in coalition over Reko Diq deal | The Express Tribune — (see source caption). The Express Tribune. https://tribune.com.pk/story/2391016/rift-emerges-in-coalition-over-reko-diq-deal
+- Lead photo: Executive summary - Global Critical Minerals Outlook 2025 - IEA — (see source caption). IEA. https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary
+- Lead photo: Reko Diq JV shareholders approve updated feasibility study, select Fluor as EPCM — (see source caption). Mining Weekly. https://www.miningweekly.com/article/reko-diq-jv-shareholders-approve-updated-feasibility-study-select-fluor-as-epcm-2025-04-08
+- Lead photo: Reko Diq secures over $5.5 billion in financing commitments from global financial institut — (see source caption). Profit by Pakistan Today. https://profit.pakistantoday.com.pk/2025/09/17/reko-diq-secures-over-5-5-billion-in-financing-commitments-from-international-financial-institutions-report/
+- Lead photo: US Exim Bank okays $1.2bn for Reko Diq — (see source caption). Dawn. https://www.dawn.com/news/1960428/us-exim-bank-okays-12bn-for-reko-diq
+- Lead photo: Manara to buy stake in Barrick’s Reko Diq project, reports FT — (see source caption). MINING.COM. https://www.mining.com/manara-minerals-to-buy-stake-in-barricks-reko-diq-gold-project-ft-reports/
+- Lead photo: $7.7bn package for Reko Diq approved — (see source caption). Dawn. https://www.dawn.com/news/1943039/77bn-package-for-reko-diq-approved
+- Lead photo: Barrick reviews Reko Diq project — (see source caption). Brecorder. https://www.brecorder.com/news/40405908/barrick-reviews-reko-diq-project-amid-security-concerns
+- Lead photo: Barrick Provides an Update on Reko Diq — (see source caption). www.barrick.com. https://www.barrick.com/English/news/news-details/2026/barrick-provides-an-update-on-reko-diq/default.aspx
+- Lead photo: Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar — (see source caption). Dawn. https://www.dawn.com/news/2044302/barrick-mining-expresses-interest-in-mineral-processing-industries-in-karachi-gwadar
+- Lead photo: Pakistan announces 13 mineral cooperation deals | The Express Tribune — (see source caption). The Express Tribune. https://tribune.com.pk/story/2640146/pakistan-announces-13-mineral-cooperation-deals
+- Lead photo: Shehbaz urges foreign miners to process minerals locally, wh - Pakistan Today — (see source caption). Pakistan Today. https://www.pakistantoday.com.pk/2026/11/14/pm-cdf-vow-security-push-foreign-miners-to-process-pakistans-mineral-wealth-at-home
+- Lead photo: $1 Billion Reko Diq ML-3 Railway Project Faces Delay Again — (see source caption). Bloom Pakistan. https://bloompakistan.com/pakistan-delays-reko-diq-railway-project/
+- Aerial view of the country around the Reko Diq site — Barrick Mining Corporation. Barrick Mining Corporation / Reko Diq Mining Company. https://s25.q4cdn.com/322814910/files/images/reko_diq/11_reko_diq_water_management.jpg
+- Children in a Chagai community programme — Barrick Mining Corporation. Barrick Mining Corporation / Reko Diq Mining Company. https://s25.q4cdn.com/322814910/files/images/reko_diq/10_reko_diq_transformative_impact.jpg
+- Reko Diq Mining Company logo — Barrick Mining Corporation. Barrick Mining Corporation / Reko Diq Mining Company. https://s25.q4cdn.com/322814910/files/images/reko_diq/reko_diq_mining_company.png
+- Barrick press card, 2026 — Barrick Mining Corporation. Barrick Mining Corporation / Reko Diq Mining Company. https://s25.q4cdn.com/322814910/files/images/news/2026/barrick_card.jpg
