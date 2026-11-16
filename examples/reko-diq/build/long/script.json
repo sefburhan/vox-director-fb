@@ -1,0 +1,626 @@
+[
+ {
+  "id": "c00",
+  "title": "Cold open",
+  "rows": [
+   {
+    "vo": "On the twenty-eighth of May, 1998, a mountain in Chagai turned white.",
+    "picture": "Archive: the Ras Koh hills, dust lifting off the ridge. No music, only the original audio.",
+    "onscreen": "28 MAY 1998 / RAS KOH, CHAGAI",
+    "id": "c00_01"
+   },
+   {
+    "vo": "Pakistan had just set off five nuclear devices beneath it. The country celebrated. The world panicked. And Chagai, the emptiest corner of Pakistan, became famous for what had been put into its ground.",
+    "picture": "Newspaper front pages spin in. Crowds. Then a slow map push into Chagai district.",
+    "onscreen": "PAKISTAN'S FIRST NUCLEAR TESTS",
+    "id": "c00_02"
+   },
+   {
+    "vo": "Almost nobody was talking about what was already in it.",
+    "picture": "Hard cut to black. One second of silence.",
+    "onscreen": "None",
+    "id": "c00_03"
+   },
+   {
+    "vo": "Two years earlier, in this same district, geologists had started drilling into the roots of a dead volcano. The cores they pulled up were laced with copper and gold.",
+    "picture": "Archive stills of 1990s drill rigs. A core tray slides across frame; a hand-drawn circle marks the green and gold flecks.",
+    "onscreen": "1996: FIRST DRILLING",
+    "id": "c00_04"
+   },
+   {
+    "vo": "Today we know what is down there. Fifteen million tonnes of copper. Twenty-six million ounces of gold. One of the largest untouched deposits of its kind on Earth.",
+    "picture": "Ground cutaway. Two counters run up.",
+    "onscreen": "15 MILLION TONNES COPPER / 26 MILLION OUNCES GOLD / Source: Barrick technical report, 2025",
+    "id": "c00_05"
+   },
+   {
+    "vo": "Since then it has been signed away and taken back. It has been argued over in Islamabad, in Washington, in London and in the British Virgin Islands. A tribunal priced the fight at nearly six billion dollars. Pakistan wrote a law just to restart it.",
+    "picture": "Fast cuts: contract pages, a gavel, courthouse exteriors, a legal award cover page. A red line hops city to city on a world map.",
+    "onscreen": "ISLAMABAD / WASHINGTON / LONDON / BRITISH VIRGIN ISLANDS",
+    "id": "c00_06"
+   },
+   {
+    "vo": "And in thirty years, the amount of copper it has produced is zero.",
+    "picture": "The copper counter resets to 0 and holds. Wind.",
+    "onscreen": "TONNES PRODUCED: 0",
+    "id": "c00_07"
+   },
+   {
+    "vo": "This is the story of how a country can own a fortune and still not be able to touch it.",
+    "picture": "Aerial pull-back from the site at dawn. Title hit.",
+    "onscreen": "REKO DIQ",
+    "id": "c00_08"
+   }
+  ]
+ },
+ {
+  "id": "c01",
+  "title": "The dead volcano",
+  "rows": [
+   {
+    "vo": "To find Reko Diq, start in Quetta and drive west for a day, along the road to Iran. Near a railway town called Nok Kundi, turn north into stony desert. You are now about 35 kilometres from Afghanistan and 55 from Iran.",
+    "picture": "Map route animates from Quetta along highway N40 beside the railway. Borders glow. Distance rulers snap out to each border.",
+    "onscreen": "QUETTA → NOK KUNDI / 35 KM TO AFGHANISTAN / 55 KM TO IRAN",
+    "id": "c01_01"
+   },
+   {
+    "vo": "The name means \"sandy peak\" in Balochi. But it is not really a peak. It is what is left of a volcano.",
+    "picture": "Low drone shots over dark eroded hills and pale sand.",
+    "onscreen": "REKO DIQ = \"SANDY PEAK\"",
+    "id": "c01_02"
+   },
+   {
+    "vo": "Tens of millions of years ago an ocean called the Tethys closed up here, as one plate slid under another. Magma rose. Hot, metal-rich fluids pushed up through the rock and froze in place. Geologists call the result a porphyry.",
+    "picture": "3D cross-section: plate subducting, magma chamber, fluids rising into fractures and cooling into veins.",
+    "onscreen": "THE TETHYS OCEAN CLOSES / PORPHYRY: COPPER FROZEN IN ROCK",
+    "id": "c01_03"
+   },
+   {
+    "vo": "That vanished ocean left a belt of copper and gold from the Balkans, through Turkey and Iran, into Pakistan. The first company to chase this deposit seriously named itself after it: Tethyan Copper.",
+    "picture": "Pull out to Eurasia. An orange band sweeps across. Known mines pulse along it, ending at Reko Diq.",
+    "onscreen": "THE TETHYAN BELT",
+    "id": "c01_04"
+   },
+   {
+    "vo": "Then came erosion. The volcano wore down until its mineral roots were almost at the surface. The top layer of barren rock is less than fifty metres thick.",
+    "picture": "Time-lapse animation of a cone eroding to stumps. A depth ruler shows the thin cap.",
+    "onscreen": "LESS THAN 50 M OF COVER",
+    "id": "c01_05"
+   },
+   {
+    "vo": "Here is the catch. The ore is low grade: about half a percent copper, and a quarter of a gram of gold per tonne. Crush a tonne of this rock and you get under five kilograms of copper.",
+    "picture": "A one-tonne cube of rock breaks apart; a small copper block and a speck of gold remain beside it for scale.",
+    "onscreen": "0.48% COPPER / 0.26 G/T GOLD",
+    "id": "c01_06"
+   },
+   {
+    "vo": "What makes it world class is the size. Three billion tonnes of ore in the mine plan. Fifteen separate porphyry bodies mapped on the lease, and the plan touches only five.",
+    "picture": "The cube multiplies into a field of cubes filling the frame. Site map with fifteen pins; five light up.",
+    "onscreen": "3 BILLION TONNES OF ORE / 15 PORPHYRIES, 5 IN THE PLAN",
+    "id": "c01_07"
+   },
+   {
+    "vo": "One of them, Tanjeel, is not even finished forming. The groundwater there is as acidic as vinegar, and it is still dissolving copper and laying it down again.",
+    "picture": "Macro shots of blue-green copper minerals. A pH strip graphic lands on 3.5.",
+    "onscreen": "TANJEEL: GROUNDWATER pH 3.5",
+    "id": "c01_08"
+   },
+   {
+    "vo": "Pakistani geologists say their national survey spotted signs of this in 1978. But the country had no money to drill a desert. Someone else would have to.",
+    "picture": "Archive: Geological Survey of Pakistan maps. Fade to an empty horizon.",
+    "onscreen": "1978: FIRST SIGNS (disputed)",
+    "id": "c01_09"
+   }
+  ]
+ },
+ {
+  "id": "c02",
+  "title": "The deal",
+  "rows": [
+   {
+    "vo": "July 23, 1993. In Quetta, the government of Balochistan signs a contract with BHP, one of the biggest mining companies in the world. It is called the Chagai Hills Exploration Joint Venture Agreement.",
+    "picture": "Archive Quetta, early 1990s. The contract's title page pushes in; the date is circled by hand.",
+    "onscreen": "23 JULY 1993 / CHAGAI HILLS EXPLORATION JOINT VENTURE AGREEMENT",
+    "id": "c02_01"
+   },
+   {
+    "vo": "One detail matters. The government that signed it was a caretaker: an interim administration, minding the province between elections.",
+    "picture": "Portrait cutout of the caretaker chief minister with a caption. A calendar flips between two election dates.",
+    "onscreen": "CARETAKER GOVERNMENT",
+    "id": "c02_02"
+   },
+   {
+    "vo": "The terms. BHP takes seventy-five percent. Balochistan takes twenty-five, and has to pay its share of the costs. On top, a two percent royalty.",
+    "picture": "A bar splits 75/25. A thin 2% sliver peels off the side.",
+    "onscreen": "BHP 75% / BALOCHISTAN 25% / ROYALTY 2%",
+    "id": "c02_03"
+   },
+   {
+    "vo": "The search area: 3.3 million acres of Chagai. That is larger than the whole of Qatar.",
+    "picture": "The licence block draws itself on the map, then a Qatar outline drops inside it for scale.",
+    "onscreen": "3.3 MILLION ACRES",
+    "id": "c02_04"
+   },
+   {
+    "vo": "To make the deal fit, the province relaxed thirteen of its own mining rules. Remember that number.",
+    "picture": "Rulebook pages; thirteen lines get struck through one after another.",
+    "onscreen": "13 RULES RELAXED",
+    "id": "c02_05"
+   },
+   {
+    "vo": "BHP drills in 1996 and 1997. It finds copper. Then it loses interest. Prices are low and the site is at the end of the earth. In 2000 it passes the project to a small Australian explorer, which sets up a company named Tethyan Copper.",
+    "picture": "Copper price line sagging through the late 1990s. A folder is handed from one paper-cutout hand to another.",
+    "onscreen": "2000: BHP STEPS BACK",
+    "id": "c02_06"
+   },
+   {
+    "vo": "Then copper takes off, and the giants return. In 2006, Chile's Antofagasta buys Tethyan outright. Canada's Barrick pays about 115 million dollars for half of it.",
+    "picture": "The price line turns sharply up. A US securities filing appears; the $115 million line is highlighted.",
+    "onscreen": "2006 / BARRICK PAYS ~$115M FOR 50% / Source: SEC filing",
+    "id": "c02_07"
+   },
+   {
+    "vo": "So the ownership now reads: Antofagasta thirty-seven and a half. Barrick thirty-seven and a half. Balochistan twenty-five. The province that owns the ground holds a quarter, under a contract signed thirteen years earlier by a government nobody elected.",
+    "picture": "The ownership bar re-splits into three colours.",
+    "onscreen": "ANTOFAGASTA 37.5% / BARRICK 37.5% / BALOCHISTAN 25%",
+    "id": "c02_08"
+   },
+   {
+    "vo": "That same year, a former member of parliament from Balochistan, Maulana Abdul Haq Baloch, goes to court. He says the 1993 deal was illegal from the start. The Balochistan High Court dismisses him. He appeals. Almost nobody notices.",
+    "picture": "Court filing cover page. A small marker labelled \"petition\" drops onto the timeline and sits there, blinking.",
+    "onscreen": "2006: THE PETITION",
+    "id": "c02_09"
+   },
+   {
+    "vo": "Tethyan keeps spending. More than 200 million dollars. By 2010 it has a plan for a 3.3 billion dollar mine. It needs one more piece of paper: the mining lease.",
+    "picture": "Camp, rigs and core sheds in parallax. A blank lease form slides to centre frame.",
+    "onscreen": "$220M+ SPENT / $3.3B MINE PLAN",
+    "id": "c02_10"
+   }
+  ]
+ },
+ {
+  "id": "c03",
+  "title": "The refusal",
+  "rows": [
+   {
+    "vo": "In 2008 Balochistan gets a new chief minister, Nawab Aslam Raisani. He looks at Reko Diq and sees a bad bargain. On December 24, 2009, after a meeting on the project, he moves to scrap the 1993 agreement.",
+    "picture": "News archive of Raisani. The 75/25 bar returns, with the 75 flashing.",
+    "onscreen": "24 DEC 2009",
+    "id": "c03_01"
+   },
+   {
+    "vo": "The argument is simple, and popular. Why should a foreign company take three quarters of Balochistan's richest asset? Why ship it abroad as raw concentrate instead of smelting it here? Why not do it ourselves?",
+    "picture": "Three questions type on, one per beat, over footage of ore trucks and a smelter pour.",
+    "onscreen": "WHY 75%? / WHY EXPORT IT RAW? / WHY NOT US?",
+    "id": "c03_02"
+   },
+   {
+    "vo": "That last idea has a famous champion. Dr Samar Mubarakmand, one of the scientists who ran the 1998 nuclear tests in this very district. He tells the Supreme Court the deposit is worth far more than the company says, and that Pakistan can mine it alone.",
+    "picture": "Callback: the Ras Koh archive from the cold open, then Mubarakmand at a podium. Two figures face off on screen.",
+    "onscreen": "COMPANY: $100 BILLION / MUBARAKMAND: $240 BILLION",
+    "id": "c03_03"
+   },
+   {
+    "vo": "February 15, 2011. Tethyan files for its mining lease. November 15, 2011. Balochistan says no.",
+    "picture": "The blank lease form from chapter 2. A red stamp lands.",
+    "onscreen": "15 NOV 2011: REJECTED",
+    "id": "c03_04"
+   },
+   {
+    "vo": "Tethyan's position: the 1993 agreement entitled us to this lease. Balochistan's position: nothing in that contract guaranteed it.",
+    "picture": "Split screen, one sentence each side, in each party's colour.",
+    "onscreen": "TETHYAN: ENTITLED / BALOCHISTAN: NOT GUARANTEED",
+    "id": "c03_05"
+   },
+   {
+    "vo": "Then, January 7, 2013. The Supreme Court, under Chief Justice Iftikhar Chaudhry, rules on that forgotten petition. And it does not stop at the lease.",
+    "picture": "Supreme Court exterior. The blinking petition marker on the timeline bursts open.",
+    "onscreen": "7 JAN 2013",
+    "id": "c03_06"
+   },
+   {
+    "vo": "It declares the entire 1993 agreement illegal and void. It broke the Mineral Development Act of 1948. The mining rules of 1970. The Contract Act of 1872. Those thirteen relaxed rules were unlawful. The hand-over from BHP to Tethyan was void as well.",
+    "picture": "Pages of the judgment fan out; statute names are highlighted in yellow one by one. The thirteen struck-through rules reappear.",
+    "onscreen": "ILLEGAL AND VOID / 1948 ACT / 1970 RULES / 1872 ACT",
+    "id": "c03_07"
+   },
+   {
+    "vo": "At home it is hailed as sovereignty restored. Balochistan sets up its own effort, with Dr Mubarakmand in charge, and promises to mine Reko Diq without foreigners.",
+    "picture": "Celebration headlines. A provincial project signboard in the desert.",
+    "onscreen": "BALOCHISTAN GOES IT ALONE",
+    "id": "c03_08"
+   },
+   {
+    "vo": "Raisani is out of office within weeks, removed as security in the province collapses. He will later say Reko Diq was the real reason.",
+    "picture": "Archive of the 2013 crisis in Quetta. Raisani leaving a building.",
+    "onscreen": "Attribute on screen: \"Raisani's claim\"",
+    "id": "c03_09"
+   },
+   {
+    "vo": "No mine gets built. And Tethyan has already taken the fight somewhere Pakistan's courts cannot reach.",
+    "picture": "The signboard alone in the wind. Slow dissolve to the World Bank building in Washington.",
+    "onscreen": "None",
+    "id": "c03_10"
+   }
+  ]
+ },
+ {
+  "id": "c04",
+  "title": "The bill",
+  "rows": [
+   {
+    "vo": "Go back to 1998 again. The year of the tests. That same year, Pakistan signed a treaty with Australia.",
+    "picture": "The 1998 marker on the timeline splits in two: the mushroom-dust photo on one side, a treaty cover page on the other.",
+    "onscreen": "1998: AUSTRALIA–PAKISTAN INVESTMENT TREATY",
+    "id": "c04_01"
+   },
+   {
+    "vo": "It was a bilateral investment treaty. Each country promises to treat the other's investors fairly. And if an investor feels cheated, it can skip the local courts and go straight to an international tribunal.",
+    "picture": "Two flags, a handshake line between them. A dotted arrow leaves Pakistan's court building and lands on a neutral table with three chairs.",
+    "onscreen": "INVESTOR CAN SUE THE STATE",
+    "id": "c04_02"
+   },
+   {
+    "vo": "Tethyan Copper is registered in Australia. So in November 2011, days after the lease is refused, it files two cases. One against Pakistan at ICSID, the World Bank's arbitration centre in Washington. One against Balochistan at the International Chamber of Commerce.",
+    "picture": "Company registration extract with \"Pty Limited\" highlighted. Two arrows leave Quetta: one to Washington, one to a second tribunal.",
+    "onscreen": "ICSID CASE NO. ARB/12/1",
+    "id": "c04_03"
+   },
+   {
+    "vo": "Pakistan's defence: the contract was void, and it was won through corruption. The tribunal examines more than a dozen corruption allegations. It rejects them for lack of evidence.",
+    "picture": "A list of allegations; each one gets a grey line through it.",
+    "onscreen": "CORRUPTION DEFENCE: REJECTED",
+    "id": "c04_04"
+   },
+   {
+    "vo": "In 2017 it rules. Pakistan broke the treaty. Tethyan had a legitimate expectation of that lease, and refusing it was an unlawful expropriation.",
+    "picture": "The words drop in heavily, one at a time.",
+    "onscreen": "2017: PAKISTAN LIABLE",
+    "id": "c04_05"
+   },
+   {
+    "vo": "Now the question that matters. How much? Tethyan had spent about 220 million dollars. But the tribunal does not award what was spent. It awards what the mine would have been worth.",
+    "picture": "Small stack labelled \"spent\". Beside it a far taller stack rises, labelled \"future value\".",
+    "onscreen": "SPENT: ~$220M / AWARDED: FAIR MARKET VALUE",
+    "id": "c04_06"
+   },
+   {
+    "vo": "July 12, 2019. Damages: 4.087 billion dollars. Interest back to 2011: about 1.7 billion more. Total: nearly six billion. Balochistan's own lawyers believed it was the second largest award in the tribunal's history.",
+    "picture": "The number builds in two parts, then locks. Music cuts.",
+    "onscreen": "$4.087B + ~$1.7B INTEREST = ~$5.9 BILLION",
+    "id": "c04_07"
+   },
+   {
+    "vo": "That is about two percent of Pakistan's entire economy. It is roughly the size of the IMF bailout the country had just signed. And by one Pakistani press account, the interest meter was still running at 700 thousand dollars a day.",
+    "picture": "GDP circle with a 2% slice. An IMF headline from the same month slides beside it. A day counter ticks.",
+    "onscreen": "~2% OF GDP / ~$700,000 A DAY",
+    "id": "c04_08"
+   },
+   {
+    "vo": "Pakistan does not pay. So Tethyan goes hunting. In December 2020, a court in the British Virgin Islands freezes a company owned by PIA, the national airline. Through it: the Roosevelt Hotel in Manhattan and the Scribe Hotel in Paris. A receiver is appointed.",
+    "picture": "Red line from Washington to the Caribbean. Then photos of the two hotels, each stamped.",
+    "onscreen": "DEC 2020: PIA ASSETS FROZEN / ROOSEVELT, NEW YORK / SCRIBE, PARIS",
+    "id": "c04_09"
+   },
+   {
+    "vo": "In May 2021 Pakistan wins that round and the freeze is lifted. But the award still stands. And the second case is still coming. Officials put the total exposure near eleven billion dollars.",
+    "picture": "Stamps peel off the hotels. The $5.9B figure stays on screen and a second, fainter figure rises behind it.",
+    "onscreen": "AWARD INTACT / TOTAL EXPOSURE: ~$11B (Pakistani officials)",
+    "id": "c04_10"
+   },
+   {
+    "vo": "Pakistan has two choices. Fight in courtrooms around the world while its property abroad is picked off piece by piece. Or pick up the phone.",
+    "picture": "World map dotted with Pakistani state assets abroad, each blinking. Cut to a desk phone.",
+    "onscreen": "None",
+    "id": "c04_11"
+   }
+  ]
+ },
+ {
+  "id": "c05",
+  "title": "The reset",
+  "rows": [
+   {
+    "vo": "The talks run quietly for months. In March 2022 there is a deal. Here is how it works.",
+    "picture": "Calendar pages. On 14 March the cabinet approves an escrow account; on 17 March talks close.",
+    "onscreen": "MARCH 2022: FRAMEWORK AGREED",
+    "id": "c05_01"
+   },
+   {
+    "vo": "The two companies behind Tethyan split. Antofagasta wants out. It first asks for 1.75 billion dollars. It settles for 900 million, paid by Pakistan.",
+    "picture": "The TCC block breaks in two. One half exits frame with a price tag that shrinks from $1.75B to $900M.",
+    "onscreen": "ANTOFAGASTA: OUT FOR $900M",
+    "id": "c05_02"
+   },
+   {
+    "vo": "Barrick wants in. It gives up its half of the award. In return it gets half of a brand new project, and the job of running it.",
+    "picture": "The other half slides back onto the map and locks into place over Reko Diq.",
+    "onscreen": "BARRICK: 50%, OPERATOR",
+    "id": "c05_03"
+   },
+   {
+    "vo": "The new ownership. Barrick, fifty percent. Three federal state companies, OGDCL, PPL and GHPL, share twenty-five. Balochistan, twenty-five: fifteen funded on its behalf, ten carried for free. The province puts in no cash.",
+    "picture": "The bar splits 50 / 25 / 25, then the Balochistan block subdivides 15 + 10.",
+    "onscreen": "BARRICK 50 / FEDERAL 25 / BALOCHISTAN 25 (15 FUNDED + 10 FREE)",
+    "id": "c05_04"
+   },
+   {
+    "vo": "The royalty changes too. In 1993 it was two percent. Now Balochistan gets five, plus advance payments before a single tonne is mined: five million dollars, then seven and a half, then ten million a year.",
+    "picture": "The old 2% sliver grows to 5%. Three coins drop in sequence.",
+    "onscreen": "ROYALTY: 2% → 5% / ADVANCES: $5M, $7.5M, $10M A YEAR",
+    "id": "c05_05"
+   },
+   {
+    "vo": "But Barrick has been burned by a Pakistani court once. It wants certainty first. So the President sends the deal to the Supreme Court in advance, with two questions. Is this legal? And would a new law to protect it be constitutional?",
+    "picture": "The presidential reference cover page. Two questions type on.",
+    "onscreen": "PRESIDENTIAL REFERENCE NO. 2 OF 2022",
+    "id": "c05_06"
+   },
+   {
+    "vo": "Five judges, led by Chief Justice Umar Ata Bandial, hear it over more than a dozen sittings. December 9, 2022: yes, and yes.",
+    "picture": "Bench graphic with five seats. A green stamp.",
+    "onscreen": "9 DEC 2022: VALID",
+    "id": "c05_07"
+   },
+   {
+    "vo": "Parliament then passes the Foreign Investment Promotion and Protection Act. It covers investments of 500 million dollars or more. Reko Diq is the first to qualify. Its tax and royalty terms are locked for thirty years, until December 15, 2052.",
+    "picture": "The Act's title page. A padlock closes over a 30-year bar running 2022 to 2052.",
+    "onscreen": "LOCKED UNTIL 15 DEC 2052",
+    "id": "c05_08"
+   },
+   {
+    "vo": "Not everyone cheers. Baloch nationalist parties inside the governing coalition object. Akhtar Mengal says the province's assembly approved it in the dark of night, and calls it \"an attempt to usurp the rights of the people of Balochistan.\"",
+    "picture": "Parliament floor archive. Mengal at the microphone. Quote on screen with his name and date.",
+    "onscreen": "AKHTAR MENGAL, BNP-M, DEC 2022",
+    "id": "c05_09"
+   },
+   {
+    "vo": "On December 15, the agreements are signed. The court that killed the first deal has blessed the second. And Balochistan's share, twenty-five percent in 1993, is twenty-five percent again. Only now it costs the province nothing, and the royalty is two and a half times bigger.",
+    "picture": "Signing archive. The 1993 bar and the 2022 bar sit one above the other for comparison.",
+    "onscreen": "1993 vs 2022",
+    "id": "c05_10"
+   }
+  ]
+ },
+ {
+  "id": "c06",
+  "title": "The copper race",
+  "rows": [
+   {
+    "vo": "Why would anyone come back to a project with that history? Because of what copper has become.",
+    "picture": "Macro: copper windings, busbars, cable drums. Fast and bright after the legal chapters.",
+    "onscreen": "None",
+    "id": "c06_01"
+   },
+   {
+    "vo": "Every electric motor, every power line, every charger runs on it. The International Energy Agency says that mines already operating or announced will fall thirty percent short of demand by 2035.",
+    "picture": "Demand line climbs; supply line flattens; the gap shades in.",
+    "onscreen": "30% SHORTFALL BY 2035 / Source: IEA, 2025",
+    "id": "c06_02"
+   },
+   {
+    "vo": "The reasons are stubborn. Ore grades are falling. Costs are rising. Big discoveries are rare, and a new mine takes many years to build.",
+    "picture": "Four icons appear in a row, one per reason.",
+    "onscreen": "LOWER GRADES / HIGHER COSTS / FEW DISCOVERIES / LONG LEAD TIMES",
+    "id": "c06_03"
+   },
+   {
+    "vo": "So a giant deposit that is already drilled and already studied is suddenly precious. Reko Diq's plan: phase one processes 45 million tonnes of ore a year, for about 200 thousand tonnes of copper and 250 thousand ounces of gold. Phase two doubles it.",
+    "picture": "Plant flowsheet animates: pit, crusher, mill, flotation, concentrate. Two output bars grow, then double.",
+    "onscreen": "PHASE 1: 45 MTPA / ~200,000 T COPPER / ~250,000 OZ GOLD / PHASE 2: 90 MTPA",
+    "id": "c06_04"
+   },
+   {
+    "vo": "At that size it would rank among the five largest mines on Earth by the amount of ore it processes. Barrick's own model puts the lifetime free cash flow at about 74 billion dollars.",
+    "picture": "World map with the largest copper operations as circles; Reko Diq's circle inflates to join them.",
+    "onscreen": "TOP 5 BY ORE THROUGHPUT / ~$74B FREE CASH FLOW OVER 37 YEARS (Barrick, at $4.20/lb copper)",
+    "id": "c06_05"
+   },
+   {
+    "vo": "April 2025, Islamabad. The Pakistan Minerals Investment Forum. On stage, Barrick's chief executive announces that the partners have approved the feasibility study and picked the American firm Fluor to build it.",
+    "picture": "Forum archive: stage, flags, delegates. Lower-third captions.",
+    "onscreen": "8–9 APRIL 2025 / PAKISTAN MINERALS INVESTMENT FORUM",
+    "id": "c06_06"
+   },
+   {
+    "vo": "Then the money arrives. The World Bank's IFC: 700 million dollars. The Asian Development Bank: 300 million, reported as its first mining investment in more than forty years. Canada, Japan and European export agencies line up.",
+    "picture": "Lender chips stack into a column, each labelled, building toward a $3.5B line.",
+    "onscreen": "IFC $700M / ADB $300M / DEBT PACKAGE ~$3.5B",
+    "id": "c06_07"
+   },
+   {
+    "vo": "And in December 2025, the United States. Its Export-Import Bank approves 1.25 billion dollars. American officials say it will carry up to two billion dollars of US mining equipment to Balochistan.",
+    "picture": "US Embassy video statement. The EXIM chip drops onto the stack and tops it out.",
+    "onscreen": "US EXIM: $1.25B / DEC 2025",
+    "id": "c06_08"
+   },
+   {
+    "vo": "Saudi Arabia's mining fund, Manara, is reported to be negotiating for a stake worth up to a billion dollars. Next door, China already runs the Saindak mine. Washington, Riyadh and Beijing all now have a reason to watch one patch of desert.",
+    "picture": "Three arrows converge on Chagai from three capitals.",
+    "onscreen": "WASHINGTON / RIYADH / BEIJING",
+    "id": "c06_09"
+   },
+   {
+    "vo": "By the end of 2025, Reko Diq has what it never had in thirty years. A contract, a law, a court's blessing, a builder and the money.",
+    "picture": "The five items tick on as a checklist. Hold.",
+    "onscreen": "CONTRACT / LAW / COURT / BUILDER / FINANCE",
+    "id": "c06_10"
+   }
+  ]
+ },
+ {
+  "id": "c07",
+  "title": "The ground",
+  "rows": [
+   {
+    "vo": "But a mine is not built in a conference hall. It is built here. Less than 35 millimetres of rain a year. Minus nine degrees in winter, forty-five in summer.",
+    "picture": "Hard cut from the forum stage to wind over gravel. Thermometer and rain gauge graphics.",
+    "onscreen": "<35 MM RAIN A YEAR / −9°C TO 45°C",
+    "id": "c07_01"
+   },
+   {
+    "vo": "Start with water. There is no river. The plan is to pump salty groundwater from an aquifer about seventy kilometres to the north-west. Barrick says no community depends on it. UN human rights experts, writing to the company in December 2025, warned that deep extraction threatens water security in an arid region.",
+    "picture": "Map: borefield, 70 km pipeline, mine. Then two document covers side by side: the company's water statement and the UN letter.",
+    "onscreen": "70 KM PIPELINE / COMPANY: NO DEPENDENT COMMUNITIES / UN EXPERTS: RISK TO WATER SECURITY",
+    "id": "c07_02"
+   },
+   {
+    "vo": "Then power. There is no grid. The mine will run on its own: oil-fired generators, a solar farm and batteries.",
+    "picture": "Site layout lights up block by block: gensets, solar array, battery yard.",
+    "onscreen": "HYBRID MICROGRID",
+    "id": "c07_03"
+   },
+   {
+    "vo": "Then the hardest part. Getting it out. Every tonne of concentrate has to travel about 1,350 kilometres by rail to Port Qasim, near Karachi.",
+    "picture": "A train traces the route east from Nok Kundi, then south through Sindh to the coast. A distance counter runs.",
+    "onscreen": "1,350 KM TO PORT QASIM",
+    "id": "c07_04"
+   },
+   {
+    "vo": "The old line cannot carry that load. The mining company itself agreed to lend Pakistan's railways 390 million dollars to start the upgrade. As of November 2026, approval of the full upgrade has been postponed three times.",
+    "picture": "Archive of the single-track desert railway. A stamp reading \"deferred\" lands three times.",
+    "onscreen": "$390M BRIDGE LOAN / UPGRADE DEFERRED ×3",
+    "id": "c07_05"
+   },
+   {
+    "vo": "Gwadar, the Chinese-built port, is far closer. The project studied it and chose Karachi anyway. The routes to Gwadar cross higher-risk country.",
+    "picture": "Two routes on the map: a short red one south to Gwadar, a long green one to Port Qasim. The red one fades.",
+    "onscreen": "GWADAR: CLOSER, RISKIER",
+    "id": "c07_06"
+   },
+   {
+    "vo": "Chagai has seen a mine before. Saindak, a smaller copper and gold operation in the same district, has been run by a Chinese state company since 2002. Its concentrate has gone abroad for smelting ever since. Many here look at Saindak and ask what Chagai has to show for it.",
+    "picture": "Saindak pit and plant. Then Nok Kundi's main street.",
+    "onscreen": "SAINDAK: CHINESE-OPERATED SINCE 2002",
+    "id": "c07_07"
+   },
+   {
+    "vo": "Reko Diq's answer is in its numbers. By the company's count, 77 percent of its staff are from Balochistan. Royalties are paid in advance. It promises 7,500 jobs in construction and 4,000 after.",
+    "picture": "Training centre, classrooms, graduates in hard hats. Figures appear with \"company data\" tags.",
+    "onscreen": "77% OF STAFF FROM BALOCHISTAN (company, March 2025) / 7,500 + 4,000 JOBS",
+    "id": "c07_08"
+   },
+   {
+    "vo": "Critics are not persuaded. In August 2025, 36 civil society groups asked the World Bank's IFC and the Asian Development Bank to hold their money. They argue that free consultation is not possible in Balochistan today, and that the Baloch should have the right to consent as an Indigenous people. Barrick rejects both points. It says independent experts spent two and a half years on the impact study, with local consultation, and that no community lives at the mine's doorstep.",
+    "picture": "The open letter's first page, signatory count circled. Then Barrick's published response. Equal screen time, same framing.",
+    "onscreen": "36 GROUPS: PAUSE THE FUNDING / BARRICK: CLAIMS UNSUBSTANTIATED",
+    "id": "c07_09"
+   },
+   {
+    "vo": "And over everything, security. Balochistan's insurgency is decades old. In Barrick's own technical report, after every mitigation, two risks are still rated high: terrorism or attack, and loss of government support.",
+    "picture": "The risk table from the report. Two rows glow red.",
+    "onscreen": "RISK AFTER MITIGATION: HIGH / Source: Barrick technical report, 2025",
+    "id": "c07_10"
+   }
+  ]
+ },
+ {
+  "id": "c08",
+  "title": "The stall",
+  "rows": [
+   {
+    "vo": "The end of January 2026. Over several days, Baloch separatists launch coordinated attacks across the province. Dozens of civilians and security personnel are killed.",
+    "picture": "Province map; districts flash one after another. News footage, handled with restraint, no graphic images.",
+    "onscreen": "29 JAN – 5 FEB 2026",
+    "id": "c08_01"
+   },
+   {
+    "vo": "February 5. On an earnings call, Barrick's new chief executive, Mark Hill, says the board is reviewing every aspect of Reko Diq. Two days later Pakistan announces a special force to guard its mineral sites.",
+    "picture": "Audio waveform of the call with the transcript line on screen. Then the government announcement.",
+    "onscreen": "5 FEB: \"REVIEWING ALL ASPECTS\" / 7 FEB: SPECIAL SECURITY FORCE",
+    "id": "c08_02"
+   },
+   {
+    "vo": "Then the region shifts. War between the United States and Iran. The border is 55 kilometres from the mine.",
+    "picture": "The 55 km ruler from chapter 1 returns. The area beyond the border darkens.",
+    "onscreen": "55 KM",
+    "id": "c08_03"
+   },
+   {
+    "vo": "April 2. Barrick puts it in writing. Development is slowed. Spending is cut. The review will run to the middle of 2027. And the company warns that cost and schedule could rise significantly.",
+    "picture": "The press release, key sentences highlighted one at a time.",
+    "onscreen": "2 APRIL 2026 / REVIEW TO MID-2027",
+    "id": "c08_04"
+   },
+   {
+    "vo": "The site is not abandoned. Press reports say about 700 permanent staff and 2,000 contractors are still there. But the big build has stopped.",
+    "picture": "Wide shot of the camp, quiet. Parked haul trucks.",
+    "onscreen": "~700 STAFF + ~2,000 CONTRACTORS RETAINED (press reports)",
+    "id": "c08_05"
+   },
+   {
+    "vo": "November 2. Dawn reports that first production could slip from 2028 to 2030. One insider puts the cost of the delay at up to 900 million dollars.",
+    "picture": "The 2028 marker slides to 2030 and gains a question mark.",
+    "onscreen": "2028 → 2030? / DELAY COST: $450M–$900M (reported estimate)",
+    "id": "c08_06"
+   },
+   {
+    "vo": "Ten days later, Islamabad answers. November 12 and 13, 2026. The Jinnah Convention Centre fills for the Pakistan Minerals Investment Forum. The organisers count more than ten thousand attendees from over sixty countries, double the year before.",
+    "picture": "Sudden colour and noise after the quiet camp. Drone over the convention centre, flags, lanyards, exhibition stands. An attendance counter runs up.",
+    "onscreen": "12–13 NOV 2026 / JINNAH CONVENTION CENTRE, ISLAMABAD / 10,000+ ATTENDEES, 60+ COUNTRIES (organisers' figures)",
+    "id": "c08_07"
+   },
+   {
+    "vo": "The slogan on the stage: Pakistan, the next critical minerals destination. In the room: the prime minister, the army chief, the chairman of Barrick, and Robert Friedland, the founder of Ivanhoe Mines.",
+    "picture": "Stage wide shot with the backdrop readable. Four name captions pop in sequence.",
+    "onscreen": "SHEHBAZ SHARIF / FIELD MARSHAL ASIM MUNIR / JOHN THORNTON, BARRICK / ROBERT FRIEDLAND, IVANHOE",
+    "id": "c08_08"
+   },
+   {
+    "vo": "The prime minister's line is the one Balochistan used in 2011. \"Mine in Pakistan, process in Pakistan, manufacture in Pakistan.\" Fifteen years after a mining lease was refused partly over that very demand, it is national policy.",
+    "picture": "Split screen: the 2011 rejection stamp from chapter 3 on the left, the prime minister at the podium on the right.",
+    "onscreen": "2011: LOCAL SMELTING DEMANDED, LEASE REFUSED / 2026: GOVERNMENT POLICY",
+    "id": "c08_09"
+   },
+   {
+    "vo": "The army chief promises investors security. Barrick's chairman says the company \"intends to continue to be a long-term partner of Pakistan\", and talks about processing plants in Karachi and Gwadar.",
+    "picture": "Each speaker in turn, quote on screen with name and date. Map pins drop on Karachi and Gwadar.",
+    "onscreen": "JOHN THORNTON, 13 NOV 2026",
+    "id": "c08_10"
+   },
+   {
+    "vo": "Thirteen agreements are signed. Ivanhoe pairs up with a Pakistani company, Mari Minerals, to look for more copper and gold in Chagai. A national minerals data centre goes live. The pitch is plain: Reko Diq is meant to be the first of many.",
+    "picture": "Signing table, handshakes. The Chagai map from chapter 1 returns with new exploration blocks lighting up around Reko Diq.",
+    "onscreen": "13 AGREEMENTS / IVANHOE + MARI MINERALS: CHAGAI / NATIONAL MINERALS DATA CENTRE",
+    "id": "c08_11"
+   },
+   {
+    "vo": "But the forum is in Islamabad. The mine is 1,350 rail kilometres from its port. And two days after the delegates fly home, the railway upgrade is deferred again. For the third time.",
+    "picture": "The convention hall empties in time-lapse. Cut to the single desert track. Hold.",
+    "onscreen": "15 NOV 2026: RAIL UPGRADE DEFERRED ×3",
+    "id": "c08_12"
+   }
+  ]
+ },
+ {
+  "id": "c09",
+  "title": "Close",
+  "rows": [
+   {
+    "vo": "Thirty-three years after the first contract, here is the count. Two agreements. One treaty. One tribunal. Nearly six billion dollars in penalties, cancelled. One law. Billions in loans, approved.",
+    "picture": "The film's key documents fall into a single stack, one per beat.",
+    "onscreen": "1993 → 2026",
+    "id": "c09_01"
+   },
+   {
+    "vo": "And the copper is exactly where the Tethys Ocean left it.",
+    "picture": "The stack dissolves into the ground cutaway from the cold open. Counter still reads zero.",
+    "onscreen": "TONNES PRODUCED: 0",
+    "id": "c09_02"
+   },
+   {
+    "vo": "The geology was never the hard part. The hard part is everything above the rock. Whether a contract can outlast a government. Whether a railway gets built. Whether a province believes it will see the money. Whether the people who live here end up safer, or less safe, because of what is under them.",
+    "picture": "Faces from Chagai, the empty track, the court, the camp. Slow, wide, quiet.",
+    "onscreen": "None",
+    "id": "c09_03"
+   },
+   {
+    "vo": "The next date on the calendar is 2030. Reko Diq has had dates before.",
+    "picture": "The opening desert shot at dusk. The 2030 marker sits alone on the timeline. Wind. Cut to black.",
+    "onscreen": "REKO DIQ",
+    "id": "c09_04"
+   }
+  ]
+ }
+]
